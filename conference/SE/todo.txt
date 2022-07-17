@@ -2,6 +2,7 @@ sosp
 oopsla
 ase
 issta
+osdi
 ecoop
 re
 icfp
