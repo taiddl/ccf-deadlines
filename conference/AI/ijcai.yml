@@ -8,15 +8,17 @@
       id: ijcai22
       link: https://ijcai-22.org
       timeline:
-        - deadline: '2022-01-14 23:59:59'
+        - abstract_deadline: '2022-01-07 23:59:59'
+          deadline: '2022-01-14 23:59:59'
+          comment: 'Abstract submission deadline; Full paper submission deadline'
       timezone: UTC+1
-      date: July 23-29, 2022
-      place: Vienna, Austria.
-#    - year: 2023
-#      id: ijcai23
-#      link:
-#      timeline:
-#        - deadline:
-#      timezone:
-#      date:
-#      place: Cape Town, South Africa
+      date: July 23- July 29, 2022
+      place: Messe Wien, Vienna, Austria
+    - year: 2023
+      id: ijcai23
+      link: TBD
+      timeline:
+        - deadline: TBD
+      timezone: TBD
+      date: TBD
+      place: Cape Town, South Africa
