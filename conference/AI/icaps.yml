@@ -1,0 +1,33 @@
+- title: ICAPS
+  description: International Conference on Automated Planning and Scheduling
+  sub: AI
+  rank: B
+  dblp: aips
+  confs:
+    - year: 2022
+      id: icaps22
+      link: http://icaps22.icaps-conference.org/
+      timeline:
+        - deadline: '2021-12-10 23:59:59'
+          comment: 'Abstract submission'
+        - deadline: '2021-12-15 23:59:59'
+          comment: 'Paper submission'
+        - deadline: '2022-01-28 23:59:59'
+          comment: 'Author feedback'
+        - deadline: '2022-02-18 23:59:59'
+          comment: 'Author notification'
+        - deadline: '2022-06-17 23:59:59'
+          comment: 'Workshops & Tutorials'
+        - deadline: '2022-06-20 23:59:59'
+          comment: 'Doctoral Consortium'
+      timezone: AoE
+      date: June 13-June 24, 2022
+      place: Virtual
+    - year: 2023
+      id: icaps23
+      link: https://www.icaps-conference.org/conference/icaps-2023/
+      timeline:
+        - deadline: TBD
+      timezone: AoE
+      date: TBD
+      place: Prague, Czech Republic
