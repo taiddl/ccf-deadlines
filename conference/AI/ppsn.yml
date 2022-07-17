@@ -1,0 +1,19 @@
+- title: PPSN
+  description: Parallel Problem Solving from Nature
+  sub: AI
+  rank: B
+  dblp: ppsn
+  confs:
+    - year: 2022
+      id: ppsn2022
+      link: https://ppsn2022.cs.tu-dortmund.de/
+      timeline:
+        - deadline: '2022-04-13 23:59:59'
+          comment: 'Paper submission due'
+        - deadline: '2022-06-06 23:59:59'
+          comment: 'Author notification'
+        - deadline: '2022-06-25 23:59:59'
+          comment: 'Camera ready'
+      timezone: AoE
+      date: September 10-September 14, 2022
+      place: Dortmund, Germany
