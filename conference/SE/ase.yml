@@ -1,5 +1,5 @@
 - title: ASE
-  description:  International Conference on Automated Software Engineering
+  description: International Conference on Automated Software Engineering
   sub: SE
   rank: A
   dblp: kbse
@@ -15,14 +15,11 @@
       timezone: AoE
       date: September 26- October 01, 2022
       place: Ann Arbor, Michigan, United States
-#    - year: 2023
-#      id: ase23
-#      link: https://conf.researchr.org/home/ase-2023
-#      timeline:
-#        - deadline: '2022-04-29 23:59:59'
-#          comment: 'Abstract Submission'
-#        - deadline: '2022-05-06 23:59:59'
-#          comment: 'Paper Submission'
-#      timezone: AoE
-#      date: September 26- October 01, 2022
-#      place: Ann Arbor, Michigan, United States
+    - year: 2023
+      id: ase23
+      link: https://conf.researchr.org/home/ase-2023
+      timeline:
+        - deadline: TBD
+      timezone: TBD
+      date: September 11-September 15, 2023
+      place: Kirchberg, Luxembourg
