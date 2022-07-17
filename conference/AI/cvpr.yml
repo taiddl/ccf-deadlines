@@ -17,9 +17,9 @@
       id: cvpr23
       link: https://cvpr2023.thecvf.com/
       timeline:
-        - deadline: '2022-11-11 23:59:00'
+        - deadline: '2022-11-11 23:59:59'
           comment: 'Paper Submission Deadline'
-        - deadline: '2022-11-11 23:59:00'
+        - deadline: '2023-02-27 23:59:59'
           comment: 'Paper Decision Notification To Authors'
       timezone: UTC-8
       date: June 11 - June 16, 2023
