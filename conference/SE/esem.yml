@@ -13,5 +13,14 @@
         - deadline: '2022-05-02 23:59:59'
           comment: 'Submission'
       timezone: AoE
-      date: September 19-23, 2022
+      date: September 19-September 23, 2022
       place: Helsinki, Finland
+    - year: 2023
+      id: esem23
+      link: TBD
+      timeline:
+        - deadline: TBD
+          comment: 'Submission'
+      timezone: AoE
+      date: October 23-October 27, 2023
+      place: TBD, United States
