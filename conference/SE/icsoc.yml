@@ -13,5 +13,18 @@
         - deadline: '2022-04-23 23:59:59'
           comment: 'Final Paper (Camera Ready) Submission & Early Bird Registration Deadline'
       timezone: AoE
-      date: May 26-27, 2022
+      date: May 26-May 27, 2022
       place: Barcelona, Spain
+    - year: 2023
+      id: icsoc23
+      link: https://waset.org/service-oriented-computing-1-conference-in-september-2023-in-vancouver
+      timeline:
+        - deadline: '2022-07-19 23:59:59'
+          comment: 'Abstracts/Full-Text Paper Submission Deadline'
+        - deadline: '2022-08-01 23:59:59'
+          comment: 'Notification of Acceptance/Rejection'
+        - deadline: '2023-08-26 23:59:59'
+          comment: 'Final Paper (Camera Ready) Submission & Early Bird Registration Deadline'
+      timezone: AoE
+      date: September 23-September 24, 2023
+      place: Vancouver, Canada
