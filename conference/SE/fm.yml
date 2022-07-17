@@ -14,4 +14,13 @@
           comment: 'Full paper submission'
       timezone: AoE
       date: November 20-26, 2021
-      place: Beijng, China
+      place: Beijing, China
+    - year: 2023
+      id: fm23
+      link: https://fm2023.isp.uni-luebeck.de
+      timeline:
+        - deadline: TBD
+          comment: 'Submission'
+      timezone: AoE
+      date: March 06-March 10, 2023
+      place: Lübeck, Germany
