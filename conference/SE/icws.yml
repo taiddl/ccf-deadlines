@@ -13,16 +13,16 @@
       timezone: AoE
       date: December 10-14, 2022
       place: TBD
-    - year: 2023
-      id: icws23
-      link: https://waset.org/web-services-conference-in-march-2023-in-madrid
-      timeline:
-        - deadline: '2022-07-19 23:59:59'
-          comment: 'Abstract/Full-Texr Paper Submission deadline'
-        - deadline: '2022-08-01 23:59:59'
-          comment: 'Notification of Acceptance/Rejection'
-        - deadline: '2023-02-26 23:59:59'
-          comment: 'Final Paper (Camera Ready) Submission & Early Bird Registration Deadline'
-      timezone: AoE
-      date: March 25-March 26, 2023
-      place: Madrid, Spain
+#    - year: 2023
+#      id: icws23
+#      link: https://waset.org/web-services-conference-in-march-2023-in-madrid
+#      timeline:
+#        - deadline: '2022-07-19 23:59:59'
+#          comment: 'Abstract/Full-Texr Paper Submission deadline'
+#        - deadline: '2022-08-01 23:59:59'
+#          comment: 'Notification of Acceptance/Rejection'
+#        - deadline: '2023-02-26 23:59:59'
+#          comment: 'Final Paper (Camera Ready) Submission & Early Bird Registration Deadline'
+#      timezone: AoE
+#      date: March 25-March 26, 2023
+#      place: Madrid, Spain

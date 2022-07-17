@@ -11,3 +11,7 @@ esem
 fm
 issre
 hotos
+icsoc
+icpc
+icsme
+icws
