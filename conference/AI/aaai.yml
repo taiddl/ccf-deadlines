@@ -19,6 +19,7 @@
       timeline:
         - abstract_deadline: '2022-08-08 23:59:59'
           deadline: '2022-08-15 23:59:59'
-      timezone: UTC-12
+          comment: 'Abstracts due; Full papers due'
+      timezone: AoE
       date: February 7 - February 14, 2023
       place: Washington, DC, USA
