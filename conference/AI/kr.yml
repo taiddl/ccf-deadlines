@@ -1,0 +1,23 @@
+- title: KR
+  description: International Conference on Principles of Knowledge Representation and Reasoning
+  sub: AI
+  rank: B
+  dblp: kr
+  confs:
+    - year: 2022
+      id: kr2022
+      link: https://kr2022.cs.tu-dortmund.de/
+      timeline:
+        - deadline: '2022-02-02 23:59:59'
+          comment: 'Submission of title and abstract'
+        - deadline: '2022-02-11 23:59:59'
+          comment: 'Paper submission deadline'
+        - deadline: '2022-03-31 23:59:59'
+          comment: 'Author response period'
+        - deadline: '2022-04-15 23:59:59'
+          comment: 'Author notification'
+        - deadline: '2022-05-07 23:59:59'
+          comment: 'Camera-ready papers'
+      timezone: AoE
+      date: July 31-August 05, 2022
+      place: London, UK
