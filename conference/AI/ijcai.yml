@@ -12,7 +12,7 @@
           deadline: '2022-01-14 23:59:59'
           comment: 'Abstract submission deadline; Full paper submission deadline'
       timezone: UTC+1
-      date: July 23- July 29, 2022
+      date: July 23-July 29, 2022
       place: Messe Wien, Vienna, Austria
     - year: 2023
       id: ijcai23
