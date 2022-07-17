@@ -8,8 +8,16 @@
       id: coling22
       link: https://coling2022.org/
       timeline:
-        - deadline: '2022-05-17 23:59:00'
-          comment: 'Papers Due'
+        - deadline: '2022-05-17 23:59:59'
+          comment: 'Submission deadline (long & short papers)'
+        - deadline: '2022-07-21 23:59:59'
+          comment: 'Author Rebuttal period'
+        - deadline: '2022-07-29 23:59:59'
+          comment: 'Final Reviewing'
+        - deadline: '2022-08-15 23:59:59'
+          comment: 'Notification of acceptance'
+        - deadline: '2022-09-15 23:59:59'
+          comment: 'Camera-ready papers due'
       timezone: AoE
-      date: June 12-17, 2022
+      date: October 12-17, 2022
       place: Gyeongju, Republic of Korea
