@@ -15,3 +15,14 @@
       timezone: AoE
       date: June 6-10, 2022
       place: Berlin, Germany
+    - year: 2023
+      id: ecoop23
+      link: https://2023.ecoop.org/
+      timeline:
+        - deadline: '2022-12-01 23:59:59'
+          comment: 'Submission R1'
+        - deadline: '2023-03-01 23:59:59'
+          comment: 'Submission R2'
+      timezone: AoE
+      date: July 12-21, 2022
+      place: Seattle, United States

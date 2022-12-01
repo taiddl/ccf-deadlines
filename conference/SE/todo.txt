@@ -1,6 +1,5 @@
 sosp
 oopsla
-ecoop
 re
 icfp
 lctes
