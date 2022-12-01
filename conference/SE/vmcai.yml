@@ -13,3 +13,12 @@
       timezone: AoE
       date: January 16-28, 2022
       place: Philadelphia, Pennsylvania, United States
+    - year: 2022
+      id: vmcai22
+      link: https://popl22.sigplan.org/home/VMCAI-2022
+      timeline:
+        - deadline: '2022-09-15 23:59:59'
+          comment: 'Submission deadline'
+      timezone: AoE
+      date: January 15-21, 2023
+      place: Boston, Massachusetts, United States
