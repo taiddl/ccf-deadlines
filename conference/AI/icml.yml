@@ -10,25 +10,17 @@
       timeline:
         - abstract_deadline: '2022-01-20 23:59:00'
           deadline: '2022-01-27 23:59:00'
-          comment: 'Abstract Submission Deadline and Full Paper Submission Deadline'
-      timezone: AoE
-      date: July 17-July 23, 2022
+          comment: 'Mandatory abstract deadline on Jan 20, 2022.'
+      timezone: UTC-12
+      date: July 17-23, 2022
       place: Baltimore, Maryland USA
     - year: 2023
       id: icml23
-      link: TBD
+      link: https://icml.cc/Conferences/2023
       timeline:
-        - deadline: TBD
-          comment: 'Abstracts/Full-Text Paper Submission Deadline'
-      timezone: AoE
-      date: TBD
-      place: Seoul, South Korea
-    - year: 2024
-      id: icml24
-      link: TBD
-      timeline:
-        - deadline: TBD
-          comment: 'Abstracts/Full-Text Paper Submission Deadline'
-      timezone: AoE
-      date: TBD
-      place: Vienna, Austria
+        - abstract_deadline: '2023-01-09 07:59:59'
+          deadline: '2023-01-26 07:59:59'
+          comment: 'Paper Submissions Open on OpenReview Jan 09 2023 02:00 PM UTC'
+      timezone: UTC-12
+      date: July 23-29, 2023
+      place: Hawaii Convention Center,Hawaii, USA

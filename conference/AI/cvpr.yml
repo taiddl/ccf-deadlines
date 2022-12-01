@@ -6,7 +6,7 @@
   confs:
     - year: 2022
       id: cvpr22
-      link: https://cvpr2022.thecvf.com/
+      link: http://cvpr2022.thecvf.com/
       timeline:
         - abstract_deadline: '2021-11-09 23:59:00'
           deadline: '2021-11-16 23:59:00'
@@ -15,12 +15,9 @@
       place: New Orleans, Louisiana
     - year: 2023
       id: cvpr23
-      link: https://cvpr2023.thecvf.com/
+      link: http://cvpr2023.thecvf.com/
       timeline:
-        - deadline: '2022-11-11 23:59:59'
-          comment: 'Paper Submission Deadline'
-        - deadline: '2023-02-27 23:59:59'
-          comment: 'Paper Decision Notification To Authors'
+          - deadline: '2022-11-11 23:59:59'
       timezone: UTC-8
-      date: June 11 - June 16, 2023
-      place: Vancouver, British Columbia, Canada
+      date: June 17-23, 2023
+      place: Vancouver, Canada

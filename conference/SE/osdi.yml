@@ -9,23 +9,17 @@
       link: https://www.usenix.org/conference/osdi22
       timeline:
         - deadline: '2021-12-14 23:59:59'
-          comment: 'Complete paper submissions due'
       timezone: AoE
-      date: July 11-July 13, 2022
-      place: Carlsbad, California, United States
+      date: July 11-13, 2022
+      place: Omni La Costa Resort & Spa in Carlsbad, CA, USA
     - year: 2023
       id: osdi2023
       link: https://www.usenix.org/conference/osdi23
       timeline:
-        - deadline: TBD
-      timezone: AoE
-      date: July 10-July 12, 2023
-      place: Boston, Massachusetts, United States
-    - year: 2024
-      id: osdi2024
-      link: https://www.usenix.org/conference/osdi24
-      timeline:
-        - deadline: TBD
-      timezone: AoE
-      date: July 10-July 12, 2024
-      place: Santa Clara, California, United States
+        - deadline: '2022-12-06 22:59:59'
+          comment: 'Abstract Registerations'
+        - deadline: '2022-12-13 22:59:59'
+          comment: 'Complete Paper Submissions'
+      timezone: UTC
+      date: July 10-12, 2023
+      place: Boston, MA, USA

@@ -25,13 +25,6 @@
       link: https://pldi23.sigplan.org/
       timeline:
         - deadline: '2022-11-10 23:59:59'
-          comment: 'Submission'
-        - deadline: '2023-02-06 23:59:59'
-          comment: 'Author-response start'
-        - deadline: '2023-02-08 23:59:59'
-          comment: 'Author-response end'
-        - deadline: '2023-02-24 23:59:59'
-          comment: 'Notification'
       timezone: AoE
-      date: June 19-June 21, 2023
-      place: Orlando, Florida
+      date: June 19-21, 2023
+      place: Orlando, Florida, United States

@@ -10,38 +10,13 @@
       timeline:
         - deadline: '2021-09-15 02:59:00'
       timezone: UTC-8
-      date: May 23-May 27, 2022
+      date: May 23-27, 2022
       place: Philadelphia (PA), USA
     - year: 2023
       id: icra23
       link: https://www.icra2023.org/
       timeline:
-        - deadline: '2022-08-05 02:59:00'
-          comment: 'Call for paper OPEN'
         - deadline: '2022-09-15 23:59:59'
-          comment: 'Submission of contributed papers'
-        - deadline: '2022-09-21 23:59:59'
-          comment: 'Supplemental video submission windows'
-        - deadline: '2022-09-21 23:59:59'
-          comment: 'General Video submissions (not related to a contributed paper)'
-        - deadline: '2022-09-23 23:59:59'
-          comment: 'Submission of workshop & tutorial proposals'
-        - deadline: '2022-12-21 23:59:59'
-          comment: 'Notification of acceptance of workshop & tutorial proposals'
-        - deadline: '2023-01-31 23:59:59'
-          comment: 'Notification of paper acceptance'
-        - deadline: '2023-01-31 23:59:59'
-          comment: 'Notification of acceptance of video submissions'
-        - deadline: '2023-03-01 23:59:59'
-          comment: 'Submission of final videos'
-        - deadline: '2023-03-01 23:59:59'
-          comment: 'Submission of final papers'
-        - deadline: '2023-03-01 23:59:59'
-          comment: 'Deadline for Author Registration'
-        - deadline: '2023-03-31 23:59:59'
-          comment: 'Deadline for Early Registration'
-        - deadline: '2023-03-31 23:59:59'
-          comment: 'Submission of presentation videos'
       timezone: UTC-8
-      date: May 29-June 2, 2023
-      place: London, UK
+      date: May 29- June 2, 2023
+      place: ExCeL London, UK

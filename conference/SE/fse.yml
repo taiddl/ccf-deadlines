@@ -19,18 +19,10 @@
       id: fse23
       link: https://2023.esec-fse.org/
       timeline:
-        - deadline: '2023-01-06 23:59:59'
-          comment: 'Paper registration'
+        - deadline: '2023-01-26 23:59:59'
+          comment: 'paper registration deadline'
         - deadline: '2023-02-02 23:59:59'
-          comment: 'Full paper submission'
-        - deadline: '2023-05-04 23:59:59'
-          comment: 'Initial notification'
-        - deadline: '2023-06-29 23:59:59'
-          comment: 'Revised manuscript submissions (major revisions only)'
-        - deadline: '2023-07-27 23:59:59'
-          comment: 'Final notification for major revisions'
-        - deadline: '2023-08-24 23:59:59'
-          comment: 'Camera ready'
+          comment: 'full paper submission deadline'
       timezone: AoE
-      date: November 11-November 17, 2023
-      place: San Francisco, California, United States
+      date: November 11-17, 2023
+      place: United States
