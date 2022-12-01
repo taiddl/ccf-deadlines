@@ -1,7 +1,6 @@
 sosp
 oopsla
 lctes
-models
 cp
 vmcai
 middleware
