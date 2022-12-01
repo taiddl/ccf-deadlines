@@ -6,7 +6,6 @@ icsoc
 icsme
 icws
 sas
-esem
 fm
 issre
 hotos
