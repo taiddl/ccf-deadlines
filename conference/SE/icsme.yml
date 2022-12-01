@@ -13,18 +13,14 @@
         - deadline: '2022-04-01 23:59:59'
           comment: 'Paper Submission'
       timezone: AoE
-      date: September 26-September 30, 2022
+      date: October 2-7, 2022
       place: Limassol, Cyprus
-#    - year: 2023
-#      id: icsme23
-#      link: https://waset.org/software-maintenance-and-evolution-conference-in-may-2023-in-barcelona
-#      timeline:
-#        - deadline: '2022-07-19 23:59:59'
-#          comment: 'Abstracts/Full-Text Paper Submission Deadline'
-#        - deadline: '2022-08-01 23:59:59'
-#          comment: 'Notification of Acceptance/Rejection'
-#        - deadline: '2023-04-23 23:59:59'
-#          comment: 'Final Paper (Camera Ready) Submission & Early Bird Registration Deadline'
-#      timezone: AoE
-#      date: May 24-May 25, 2023
-#      place: Barcelona, Spain
+    - year: 2023
+      id: icsme23
+      link: https://conf.researchr.org/home/icsme-2023
+      timeline:
+        # todo TBD
+        - deadline: TBD
+      timezone: AoE
+      date: October 2-6, 2023
+      place: Bogotá, Colombia
