@@ -2,6 +2,7 @@ sosp
 oopsla
 lctes
 cp
+icsoc
 vmcai
 middleware
 sas
@@ -9,7 +10,6 @@ esem
 fm
 issre
 hotos
-icsoc
 icpc
 icsme
 icws
