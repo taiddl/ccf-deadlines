@@ -15,16 +15,12 @@
       timezone: AoE
       date: May 21-May 22, 2022
       place: Pittsburgh, Pennsylvania, United States
-#    - year: 2023
-#      id: icpc23
-#      link: https://waset.org/program-comprehension-conference-in-november-2023-in-amsterdam
-#      timeline:
-#        - deadline: '2022-07-19 23:59:59'
-#          comment: 'Abstract/Full-Text Papaer Submission Deadline'
-#        - deadline: '2022-08-01 23:59:59'
-#          comment: 'Notification of Acceptance/Rejection'
-#        - deadline: '2023-10-04 23:59:59'
-#          comment: 'Final Paper (Camera Ready) Submission & Early Bird Registration Deadline'
-#      timezone: AoE
-#      date: Novemeber 04-November 05, 2023
-#      place: Amsterdam, Netherlands
+    - year: 2023
+      id: icpc23
+      link: https://conf.researchr.org/home/icpc-2023
+      timeline:
+        - abstract_deadline: '2022-12-10 23:59:59'
+          deadline: '2022-12-15 23:59:59'
+      timezone: AoE
+      date: May 15-16, 2023
+      place: Melbourne, Australia
