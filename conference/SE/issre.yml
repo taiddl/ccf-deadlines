@@ -1,5 +1,5 @@
 - title: ISSRE
-  description:  International Symposium on Software Reliability Engineering
+  description: International Symposium on Software Reliability Engineering
   sub: SE
   rank: B
   dblp: issre
@@ -15,3 +15,12 @@
       timezone: AoE
       date: October 25-28, 2021
       place: Wuhan, China
+    - year: 2022
+      id: issre22
+      link: https://issre2022.github.io/
+      timeline:
+        - abstract_deadline: '2022-05-13 23:59:59'
+          deadline: '2022-05-22 23:59:59'
+      timezone: AoE
+      date: October 31-November 3, 2022
+      place: Charlotte, North Carolina, USA
