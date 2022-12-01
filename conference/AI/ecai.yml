@@ -1,0 +1,15 @@
+- title: ECAI
+  description: European Conference on Artificial Intelligence
+  sub: AI
+  rank: B
+  dblp: ecai
+  confs:
+    - year: 2023
+      id: ecai23
+      link: https://ecai2023.eu/
+      timeline:
+        # todo Paper submission deadline: late April 2023 (after IJCAI-23 notifications)
+        - deadline: '2023-04-01 23:59:59'
+      timezone: UTC-8
+      date: October 1-6, 2023
+      place: Kraków, Poland
