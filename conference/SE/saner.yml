@@ -19,14 +19,8 @@
       id: saner2023
       link: https://saner2023.must.edu.mo
       timeline:
-        - deadline: '2022-10-14 23:59:59'
-          comment: 'Abstract'
-        - deadline: '2022-10-21 23:59:59'
-          comment: 'Paper'
-        - deadline: '2022-12-16 23:59:59'
-          comment: 'Notifications'
-        - deadline: '2023-01-13 23:59:59'
-          comment: 'Camera Ready'
+        - abstract_deadline: '2022-10-14 23:59:59'
+          deadline: '2022-10-21 23:59:59'
       timezone: AoE
-      date: March 21-March 24, 2023
+      date: March 21-24, 2023
       place: Macao SAR, China
