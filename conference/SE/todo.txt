@@ -1,6 +1,5 @@
 sosp
 oopsla
-osdi
 ecoop
 re
 icfp
