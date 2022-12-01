@@ -19,8 +19,8 @@
       id: fm23
       link: https://fm2023.isp.uni-luebeck.de
       timeline:
-        - deadline: TBD
-          comment: 'Submission'
+        - abstract_deadline: '2022-09-04 23:59:59'
+          deadline: '2022-09-11 23:59:59'
       timezone: AoE
-      date: March 06-March 10, 2023
+      date: March 06-10, 2023
       place: Lübeck, Germany
