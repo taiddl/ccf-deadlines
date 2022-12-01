@@ -1,7 +1,4 @@
 nips
-acl
-ijcai
-colt
 emnlp
 ecai
 eccv
