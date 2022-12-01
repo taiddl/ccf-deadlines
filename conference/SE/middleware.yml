@@ -15,3 +15,11 @@
       timezone: AoE
       date: November 7-11, 2022
       place: Fairmont Le Château Frontenac, Québec City, Québec, Canada
+    - year: 2023
+      id: middleware23
+      link: https://middleware-conf.github.io/2023/
+      timeline:
+        - deadline: '2022-12-02 23:59:59'
+      timezone: AoE
+      date: December 11-15, 2022
+      place: DAMSLab, Department of Arts University of Bologna, Italy
