@@ -1,6 +1,6 @@
 nips
 emnlp
-eccv
+eccv  ---  not hold in odd year
 icaps
 iccbr
 coling
