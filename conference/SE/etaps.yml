@@ -21,20 +21,6 @@
       timeline:
         - deadline: '2022-10-13 23:59:59'
           comment: 'Submission deadline'
-        - deadline: '2022-11-10 23:59:59'
-          comment: 'TACAS artifact submission deadline'
-        - deadline: '2022-12-08 23:59:59'
-          comment: 'Rebuttal（ESOP, FoSSaCS, partially TACAS）'
-        - deadline: '2022-12-22 23:59:59'
-          comment: 'Paper notification'
-        - deadline: '2023-01-05 23:59:59'
-          comment: 'ESOP, FASE, FpSSaCS artifact submission deadline'
-        - deadline: '2023-01-19 23:59:59'
-          comment: 'Artifact notification TACAS'
-        - deadline: '2023-01-26 23:59:59'
-          comment: 'Paper final version'
-        - deadline: '2023-02-09 23:59:59'
-          comment: 'Artifact notification ESOP, FASE, FoSSaCS'
       timezone: AoE
-      date: April 22-April 27, 2023
+      date: April 22-27, 2023
       place: Paris France
