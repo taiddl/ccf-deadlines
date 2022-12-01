@@ -8,16 +8,17 @@
       id: kr2022
       link: https://kr2022.cs.tu-dortmund.de/
       timeline:
-        - deadline: '2022-02-02 23:59:59'
-          comment: 'Submission of title and abstract'
-        - deadline: '2022-02-11 23:59:59'
-          comment: 'Paper submission deadline'
-        - deadline: '2022-03-31 23:59:59'
-          comment: 'Author response period'
-        - deadline: '2022-04-15 23:59:59'
-          comment: 'Author notification'
-        - deadline: '2022-05-07 23:59:59'
-          comment: 'Camera-ready papers'
+        - abstract_deadline: '2022-02-02 23:59:59'
+          deadline: '2022-02-11 23:59:59'
       timezone: AoE
       date: July 31-August 05, 2022
       place: London, UK
+    - year: 2023
+      id: kr2023
+      link: https://kr.org/KR2023/
+      timeline:
+        - abstract_deadline: '2023-03-03 23:59:59'
+          deadline: '2023-03-14 23:59:59'
+      timezone: AoE
+      date: September 2-8, 2023
+      place: Rhodes, Greece
