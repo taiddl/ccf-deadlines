@@ -1,5 +1,5 @@
 - title: ICSOC
-  description:  International Conference on Service Oriented Computing
+  description: International Conference on Service Oriented Computing
   sub: SE
   rank: B
   dblp: icsoc
@@ -13,5 +13,5 @@
         - deadline: '2022-07-07 23:59:59'
           comment: 'Normal paper submission due'
       timezone: AoE
-      date: November 29–December 2, 2022
+      date: November 29-December 2, 2022
       place: Sevilla, Spain
