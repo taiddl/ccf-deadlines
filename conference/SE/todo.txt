@@ -1,6 +1,5 @@
 sosp
 oopsla
-ase
 issta
 osdi
 ecoop
