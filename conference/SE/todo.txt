@@ -1,6 +1,5 @@
 sosp
 oopsla
-re
 icfp
 lctes
 models
