@@ -2,7 +2,7 @@ nips
 emnlp
 eccv  ---  not hold in odd year
 iccbr
-coling
+coling  ---  not hold in odd year
 kr
 uai
 ppsn
