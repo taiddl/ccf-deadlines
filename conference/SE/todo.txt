@@ -3,6 +3,7 @@ oopsla
 lctes
 cp
 icsoc
+icws
 middleware
 sas
 esem
@@ -11,4 +12,3 @@ issre
 hotos
 icpc
 icsme
-icws
