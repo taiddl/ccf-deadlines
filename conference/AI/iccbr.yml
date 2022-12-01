@@ -9,11 +9,6 @@
       link: https://iccbr2022.loria.fr/
       timeline:
         - deadline: '2022-05-01 23:59:59'
-          comment: 'Paper Submission Deadline'
-        - deadline: '2022-05-30 23:59:59'
-          comment: 'Paper Notification'
-        - deadline: '2022-06-17 23:59:59'
-          comment: 'Camera Ready Copy'
       timezone: AoE
-      date: September 12-September 15, 2022
+      date: September 12-15, 2022
       place: Nancy, France
