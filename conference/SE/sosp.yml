@@ -8,7 +8,8 @@
       id: sosp21
       link: https://sosp2021.mpi-sws.org/
       timeline:
-        - deadline: '2021-05-07 14:59:59'
+        - abstract_deadline: '2021-04-30 14:59:59'
+          deadline: '2021-05-07 14:59:59'
       timezone: UTC-8
       date: October 26-29, 2021
       place: Koblenz, Germany
@@ -16,8 +17,10 @@
       id: sosp23
       link: https://sosp2023.mpi-sws.org/
       timeline:
-        # todo TBD
-        - deadline: 'TBD'
-      timezone: UTC-8
+        - deadline: '2023-04-10 23:59:59'
+          comment: 'Deadline to Register Abstracts'
+        - deadline: '2023-04-17 23:59:59'
+          comment: 'Submission Deadline (no extensions)'
+      timezone: UTC-4
       date: October 23-26, 2021
       place: Koblenz, Germany

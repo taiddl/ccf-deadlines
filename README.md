@@ -1,28 +1,21 @@
 # CCF-Deadlines
-[![LICENSE](https://img.shields.io/github/license/ccfddl/ccf-deadlines)](https://github.com/ccfddl/ccf-deadlines/blob/main/LICENSE)
-[![Build Status](https://img.shields.io/github/workflow/status/ccfddl/ccf-deadlines/Deploy)](https://github.com/ccfddl/ccf-deadlines/commits/main)
-[![Open PRs](https://img.shields.io/github/issues-pr/ccfddl/ccf-deadlines)](https://github.com/ccfddl/ccf-deadlines/pulls)
+
+[![LICENSE](https://img.shields.io/github/license/taiddl/ccf-deadlines)](https://github.com/taiddl/ccf-deadlines/blob/main/LICENSE)
 
 English | [简体中文](./README.zh-CN.md)
 
-Help researchers track deadlines of conferences recommended by [China Computer Federation (CCF)](https://www.ccf.org.cn/).
+Help researchers track deadlines of conferences recommended
+by [China Computer Federation (CCF)](https://www.ccf.org.cn/).
 
-Preview: [Demo](https://ccfddl.github.io/)
-
-[![Demo Preview](.readme_assets/screenshot.png)](https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/screenshot.png)
+[![Demo Preview](.readme_assets/screenshot_website.png)](https://github.com/taiddl/ccf-deadlines/blob/main/.readme_assets/screenshot.png)
 
 **No More Finding and Time Conversion on Your Own!**
 
-## Add/Update a conference
-Contributions are welcomed and greatly appreciated! For further contribution and waterblowing, email [chenzh@stu.ecnu.edu.cn](chenzh@stu.ecnu.edu.cn) through your edu email address with wechatid to join the [CCFDDL](https://github.com/ccfddl) organization.
+Tips: check [conferences recommended](.readme_assets/ccf_recommended_2022.pdf) and
+review [statistics](https://docs.qq.com/sheet/DR3F1Tm1jcnlzVFJ2)
 
-To add or update information:
-- Fork the repo
-- Add/Update the yml file of conference/conf_type/conf_name.yml
-- Send a [pull request](https://github.com/ccfddl/ccf-deadlines/pulls)
-
-Tips: check [conferences recommended](.readme_assets/ccf_recommended.pdf) and review [statistics](https://docs.qq.com/sheet/DR3F1Tm1jcnlzVFJ2)
 ## Conference Entry File
+
 Example file: conference/DB/sigmod.yml
 
 ```
@@ -44,6 +37,7 @@ Example file: conference/DB/sigmod.yml
       date: June 12-17, 2022
       place: Philadelphia, PA, USA
 ```
+
 Description of the fields:
 <table>
    <tr>
@@ -114,24 +108,21 @@ Fields marked with asterisk (*) are required.
 
 The matching table:
 
-| `sub` | Category name |
-| ----------- | --------------------------------------------------------- |
-| `DS`        | Computer Architecture/Parallel Programming/Storage Technology                   |
-| `NW`        | Network System                                              |
-| `SC`        | Network and System Security                                           |
-| `SE`        | Software Engineering/Operating System/Programming Language Design                            |
-| `DB`        | Database/Data Mining/Information Retrieval                                  |
-| `CT`        | Computing Theory                                    |
-| `CG`        | Graphics                                      |
-| `AI`        | Artificial Intelligence                                                  |
-| `HI`        | Computer-Human Interaction                                       |
-| `MX`       | Interdiscipline/Mixture/Emerging                                            |
+| `sub` | Category name                                                     |
+|-------|-------------------------------------------------------------------|
+| `DS`  | Computer Architecture/Parallel Programming/Storage Technology     |
+| `NW`  | Network System                                                    |
+| `SC`  | Network and System Security                                       |
+| `SE`  | Software Engineering/Operating System/Programming Language Design |
+| `DB`  | Database/Data Mining/Information Retrieval                        |
+| `CT`  | Computing Theory                                                  |
+| `CG`  | Graphics                                                          |
+| `AI`  | Artificial Intelligence                                           |
+| `HI`  | Computer-Human Interaction                                        |
+| `MX`  | Interdiscipline/Mixture/Emerging                                  |
 
-## Contribution
-Maintained by [@jacklightChen](https://github.com/jacklightChen), [@0x4f5da2](https://github.com/0x4f5da2), [@kzoacn](https://github.com/kzoacn), [@cubercsl](https://github.com/cubercsl), [
-@spingARbor](https://github.com/spingARbor), [@liborui](https://github.com/liborui), [@PAN-Ziyue](https://github.com/PAN-Ziyue).
-
-Inspired by [ai-deadlines](https://aideadlin.es/).
+Inspired by [ccf-deadlines](https://ccfddl.github.io/).
 
 ## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fccfddl%2Fccf-deadlines.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fccfddl%2Fccf-deadlines?ref=badge_large)
+
+MIT

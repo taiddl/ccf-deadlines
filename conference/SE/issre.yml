@@ -24,3 +24,14 @@
       timezone: AoE
       date: October 31-November 3, 2022
       place: Charlotte, North Carolina, USA
+    - year: 2023
+      id: issre23
+      link: https://issre.github.io/2023
+      timeline:
+        - deadline: '2023-06-01 23:59:59'
+          comment: 'Abstract submission'
+        - deadline: '2023-06-07 23:59:59'
+          comment: 'Full paper submission'
+      timezone: AoE
+      date: October 9-12, 2023
+      place: Florence, Italy
