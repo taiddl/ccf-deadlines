@@ -17,7 +17,7 @@
       id: sas23
       link: https://conf.researchr.org/home/sas-2023
       timeline:
-        - abstract_deadline: '2023-04-24 23:59:59'
+        - deadline: '2023-04-24 23:59:59'
           comment: 'Paper submission (title and abstract)'
         - deadline: '2023-05-01 23:59:59'
           comment: 'Paper submission (paper update deadline)'
