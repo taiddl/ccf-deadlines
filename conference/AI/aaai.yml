@@ -11,7 +11,7 @@
         - abstract_deadline: '2021-08-30 23:59:59'
           deadline: '2021-09-08 23:59:59'
       timezone: UTC-12
-      date: February 22 - March 1, 2022
+      date: February 22-March 1, 2022
       place: Vancouver, British Columbia, Canada
     - year: 2023
       id: aaai23
@@ -21,7 +21,7 @@
           deadline: '2022-08-15 23:59:59'
           comment: 'Abstracts due; Full papers due'
       timezone: AoE
-      date: February 7 - February 14, 2023
+      date: February 7-February 14, 2023
       place: Washington, DC, USA
     - year: 2024
       id: aaai24
@@ -30,5 +30,5 @@
         - abstract_deadline: '2023-08-08 23:59:59'
           deadline: '2023-08-15 23:59:59'
       timezone: UTC-12
-      date: February 20 - February 27, 2024
+      date: February 20-February 27, 2024
       place: Vancouver, British Columbia, Canada
