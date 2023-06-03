@@ -12,3 +12,11 @@
       timezone: AoE
       date: September 12-15, 2022
       place: Nancy, France
+    - year: 2023
+      id: iccbr23
+      link: https://www.iccbr2023.org/
+      timeline:
+        - deadline: '2023-04-24 23:59:59'
+      timezone: AoE
+      date: July 17-20, 2023
+      place: Aberdeen, Scotland

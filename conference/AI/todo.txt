@@ -1,7 +1,0 @@
-nips
-emnlp
-eccv  ---  not hold in odd year
-iccbr
-coling  ---  not hold in odd year
-uai
-ppsn
