@@ -19,8 +19,8 @@
       id: icsme23
       link: https://conf.researchr.org/home/icsme-2023
       timeline:
-        # todo TBD
-        - deadline: TBD
+        - abstract_deadline: '2023-04-20 23:59:59'
+          deadline: '2023-04-27 23:59:59'
       timezone: AoE
-      date: October 2-6, 2023
+      date: October 1-6, 2023
       place: Bogotá, Colombia

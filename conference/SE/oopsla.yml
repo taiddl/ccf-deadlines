@@ -24,6 +24,5 @@
         - deadline: '2023-04-14 23:59:59'
           comment: 'Submission Deadline Round 2'
       timezone: AoE
-      # todo TBD
-      date: TBD
-      place: Lisbon, Portugal
+      date: October 22-27, 2023
+      place: Cascais, Portugal

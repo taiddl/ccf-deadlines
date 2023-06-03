@@ -1,5 +1,5 @@
 - title: HotOS
-  description:  USENIX Workshop on Hot Topics in Operating Systems
+  description: USENIX Workshop on Hot Topics in Operating Systems
   sub: SE
   rank: B
   dblp: hotos
@@ -12,4 +12,13 @@
           comment: 'Submission Deadline'
       timezone: AoE
       date: June 1-3, 2021
-      place:  Virtual      
+      place: Virtual
+    - year: 2023
+      id: hotos23
+      link: https://sigops.org/s/conferences/hotos/2021/
+      timeline:
+        - deadline: '2023-02-02 23:59:59'
+          comment: 'Paper or Panel Proposal Submission Deadline'
+      timezone: AoE
+      date: June 22–24, 2023
+      place: Providence, Rhode Island, USA
